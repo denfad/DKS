@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+    <color name="colorPrimary">#EE0000</color>
+
+    <color name="colorPrimaryDark">#B30000</color>
+
+    <color name="colorAccent">#DA0303</color>
+
+    <color name="work">#E8656C</color>
+
+    <color name="week">#713235</color>
+
+    <color name="our_gray">#707070</color>
+
+
+
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DKC SCHEDULE</string>
+
+    <string-array name="shedule">
+        <item>2/2 (утро/вечер)</item>
+        <item>5/2 (утро/день/ночь)</item>
+        <item>5/2 (утро/вечер)</item>
+        <item>4/2 (утро/вечер)</item>
+    </string-array>
+</resources>
